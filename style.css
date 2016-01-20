@@ -1,0 +1,53 @@
+*{margin:0;padding:0;}
+.w1000{ width:1000px; margin:0 auto;}
+.w980{ width:980px; margin:0 auto;}
+.clear{ clear:both;}
+a{ text-decoration:none;color:#fff; font-size:12px;}
+body{font-size:12px; background:#83580a}
+
+.top{ background:url(http://103.226.154.142:8088/images/topbg.png) top center no-repeat; height:136px;}
+.top .logo{ width:350px; display: block; height:136px;}
+.menu{ height:53px; background:url(http://103.226.154.142:8088/images/menubg.png) repeat-x}
+.menu li{ width:245px; float:left; height:53px;}
+.menu li.menu01{ background:url(http://103.226.154.142:8088/images/menu_01.png) no-repeat;}
+.menu li.menu02{ background:url(http://103.226.154.142:8088/images/menu_02.png) no-repeat;}
+.menu li.menu03{ background:url(http://103.226.154.142:8088/images/menu_03.png) no-repeat;}
+.menu li.menu04{ background:url(http://103.226.154.142:8088/images/menu_04.png) no-repeat;}
+.menu li a{ height:53px; display:block;}
+.menu li.menu01:hover{ background:url(http://103.226.154.142:8088/images/menuon_01.png) no-repeat;}
+.menu li.menu02:hover{ background:url(http://103.226.154.142:8088/images/menuon_02.png) no-repeat;}
+.menu li.menu03:hover{ background:url(http://103.226.154.142:8088/images/menuon_03.png) no-repeat;}
+.menu li.menu04:hover{ background:url(http://103.226.154.142:8088/images/menuon_04.png) no-repeat;}
+
+
+.jcmain{ margin-top:20px; margin-bottom:30px;}
+.jcleft{ background:url(http://103.226.154.142:8088/images/mainbg.png) repeat; width:700px; height:auto; min-height:600px; float:left;-moz-border-radius:10px;-webkit-border-radius:10px;border-radius:10px; padding-left:20px;}
+.jcleft .title{ text-align:center; line-height:70px; height:70px; color:#fff100; font-size:13px;}
+
+form{ line-height:37px;width:674px;}
+.list{line-height:37px;background: url(http://103.226.154.142:8088/images/listbg.png) center top repeat-y; width:674px;}
+.ptwz{ font-size:16px; font-weight:bold; color:#fff100; margin-bottom:15px;}
+.jyb{ font-size:16px; font-weight:bold; color:#fff100; margin-bottom:15px; margin-top:15px}
+.koilist{ height:37px;}
+.kiutv1{ border:none; width:195px; height:37px; text-align:center; line-height:37px; background:none; color:#fff;font-size:14px; float:left; font-family:Arial;}
+.kiutv2{ border:none; width:365px; height:37px; text-align:center; line-height:37px; background:none; color:#fff;font-size:14px;float:left; font-family:Arial}
+.raoin{ float:left; margin:0}
+.openwsa{ background: url(http://103.226.154.142:8088/images/openbg.png) no-repeat; width:114px; height:37px; border:none; cursor:pointer; line-height:37px;float:left;text-align:center; font-size:14px;color:#fff; font-size:12px; font-family:"瀹嬩綋"}
+.openwsa:hover{ color:#fff100}
+.btn2{ background:url(http://103.226.154.142:8088/images/btn2bg.png) no-repeat; width:411px; height:36px; border:none; text-align:center; font-family:"寰蒋闆呴粦"; font-size:14px; color:#1b160f; cursor:pointer; margin:0 auto; display:block}
+
+.jcright{ float:right; background:url(http://103.226.154.142:8088/images/jcrightbg.png) no-repeat; width:213px; height:517px; padding-top:80px; padding-left:20px; padding-right:10px;}
+.jcright h2{ font-family:"寰蒋闆呴粦"; font-size:18px; font-weight:normal; color:#fff100; height:50px; line-height:60px;}
+.jcright p{ color:#fff; font-size:13px; font-family:"瀹嬩綋"; line-height:20px;}
+.jcright img{ margin-top:5px;}
+
+.footer{  height:55px; padding-top:30px; line-height:25px; text-align:center; color:#aaaaaa;}
+.footer a{ color:#aaaaaa;}
+
+ul.lianxi{ margin-top:30px;}
+ul.lianxi li{ float:left; margin-left:50px; width:200px;}
+ul.lianxi li .ico{ display:block; width:50px; height:50px; float:left}
+ul.lianxi li .qq{ background:url(http://103.226.154.142:8088/images/lianxiico.png) 0 0px no-repeat;}
+ul.lianxi li .phone{ background:url(http://103.226.154.142:8088/images/lianxiico.png) -50px 0 no-repeat;}
+ul.lianxi li .kefu{ background:url(http://103.226.154.142:8088/images/lianxiico.png) -100px 0 no-repeat;}
+ul.lianxi li .wenzi{ float:left; margin-left:10px; color:#fff; font-size:16px; font-family:"寰蒋闆呴粦"; line-height:25px;}
